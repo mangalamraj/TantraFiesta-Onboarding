@@ -4,11 +4,11 @@
 
 ### 1. Clone the repo
 
-​	Visit the TF2022 project repo link given to you along with this guide. Clone this repo into your local system. Click the button shown in the image and then go to the desired repository where you want to locally setup this project. Use the given command to clone the repo.
+​	Visit the TF2023 project repo link will be(i will add it) given to you along with this guide. Clone this repo into your local system. Click the button shown in the image and then go to the desired repository where you want to locally setup this project. Use the given command to clone the repo.
 
 ![](./images/setup-guide/2.jpeg)
 ```
-git clone https://github.com/bhavesh-chaudhari/TF2022
+
 ```
 
 ### 2. Install all the required dependency
