@@ -13,4 +13,6 @@ Adit Shriyans BT22CSE007
 
 Aaryan Raj BT21CSE135
 
+Shashank Tripathi BT21CSE109
+
 
