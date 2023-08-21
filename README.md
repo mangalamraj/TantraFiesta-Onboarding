@@ -13,6 +13,7 @@ Adit Shriyans BT22CSE007
 
 Aaryan Raj BT21CSE135
 
+Supratit Datta BT22ECE127
 
 Aditya Bhivgade BT22CSE044
 
